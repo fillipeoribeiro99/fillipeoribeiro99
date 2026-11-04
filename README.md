@@ -15,7 +15,7 @@ Conectando tecnologia e dados para transformar informações em soluções e apo
 <a href="https://wa.me/5511959664332" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-<a href="mailto:rfillipe21@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rfillipe21%40gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/filliperibeiro/" target="_blank">
@@ -76,7 +76,7 @@ Tenho interesse em aprender novas ferramentas, resolver problemas e desenvolver 
 
 ### 📊 Análise de Vendas — Power BI
 
-Projeto voltado à análise de dados comerciais e visualização de indicadores por meio de dashboards, com foco na interpretação de informações.
+Projeto voltado à análise de dados comerciais e visualização de indicadores por meio de dashboards.
 
 ### 💻 Portfólio Web
 
@@ -90,12 +90,10 @@ Projeto acadêmico envolvendo o desenvolvimento de uma aplicação voltada ao se
 
 Estudos e projetos relacionados à estruturação, modelagem e gerenciamento de bancos de dados.
 
-<br>
-
 <div align="center">
 
 <a href="https://github.com/fillipeoribeiro99?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_todos_os_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos" />
+  <img src="https://img.shields.io/badge/Meus_Projetos-Explorar_repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus Projetos" />
 </a>
 
 </div>
@@ -113,13 +111,13 @@ Continuar evoluindo na área de tecnologia, especialmente em Análise de Dados e
 <div align="center">
 
 <a href="https://wa.me/5511959664332" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-11959664332-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-<a href="mailto:rfillipe21@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rfillipe21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rfillipe21%40gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/filliperibeiro/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br><br>
