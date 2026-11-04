@@ -12,14 +12,14 @@ Conectando tecnologia e dados para transformar informações em soluções e apo
 
 <br>
 
-<a href="https://www.linkedin.com/in/filliperibeiro/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://wa.me/5511959664332" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 <a href="mailto:rfillipe21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Enviar_mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-Enviar_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://github.com/fillipeoribeiro99" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://www.linkedin.com/in/filliperibeiro/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
@@ -30,11 +30,11 @@ Conectando tecnologia e dados para transformar informações em soluções e apo
 
 Sou bacharel em Sistemas de Informação, com interesse em tecnologia, análise de dados e desenvolvimento de soluções digitais.
 
-Estou direcionando meu desenvolvimento profissional para **Análise de Dados e Business Intelligence**, aprofundando meus conhecimentos em SQL, Power BI e ferramentas de análise e visualização de dados.
+Atualmente, estou direcionando meu desenvolvimento profissional para **Análise de Dados e Business Intelligence**, aprofundando meus conhecimentos em SQL, Power BI e ferramentas de análise e visualização de dados.
 
-Minha formação também proporciona uma base em desenvolvimento web, banco de dados e suporte de TI, permitindo uma visão mais ampla sobre tecnologia e suas aplicações nos negócios.
+Minha formação também me proporcionou conhecimentos em desenvolvimento web, banco de dados e suporte de TI, permitindo uma visão ampla sobre tecnologia e suas aplicações no ambiente profissional.
 
-Gosto de aprender, explorar novas ferramentas e desenvolver projetos que envolvam análise, organização de informações e resolução de problemas.
+Tenho interesse em aprender novas ferramentas, resolver problemas e desenvolver soluções que contribuam para a organização de informações e a melhoria de processos.
 
 ---
 
@@ -62,10 +62,9 @@ Gosto de aprender, explorar novas ferramentas e desenvolver projetos que envolva
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-### ☁️ Desenvolvimento contínuo
+### ☁️ Em desenvolvimento
 
 - Computação em Nuvem
 - Análise de Dados
@@ -77,31 +76,35 @@ Gosto de aprender, explorar novas ferramentas e desenvolver projetos que envolva
 
 ### 📊 Análise de Vendas — Power BI
 
-Projeto voltado à análise de dados comerciais e visualização de indicadores por meio de dashboards.
+Projeto voltado à análise de dados comerciais e visualização de indicadores por meio de dashboards, com foco na interpretação de informações.
 
 ### 💻 Portfólio Web
 
-Projeto desenvolvido para apresentar minha trajetória, conhecimentos e trabalhos na área de tecnologia.
+Projeto desenvolvido para apresentar minha trajetória profissional, conhecimentos e trabalhos na área de tecnologia.
 
 ### 🛵 Aplicação de Delivery
 
-Projeto acadêmico envolvendo desenvolvimento de uma aplicação voltada ao segmento de delivery.
+Projeto acadêmico envolvendo o desenvolvimento de uma aplicação voltada ao segmento de delivery.
 
 ### 🗄️ Banco de Dados
 
-Estudos e projetos envolvendo estruturação, modelagem e gerenciamento de bancos de dados.
+Estudos e projetos relacionados à estruturação, modelagem e gerenciamento de bancos de dados.
 
-**Confira meus projetos e repositórios:**
+<br>
+
+<div align="center">
 
 <a href="https://github.com/fillipeoribeiro99?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Explorar_repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" />
+  <img src="https://img.shields.io/badge/Ver_todos_os_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos" />
 </a>
+
+</div>
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Continuar evoluindo na área de tecnologia, especialmente em Análise de Dados e Business Intelligence, desenvolvendo competências que permitam transformar dados em informações relevantes e contribuir para a tomada de decisões.
+Continuar evoluindo na área de tecnologia, especialmente em Análise de Dados e Business Intelligence, desenvolvendo competências para transformar dados em informações relevantes e contribuir para a tomada de decisões.
 
 ---
 
@@ -109,22 +112,20 @@ Continuar evoluindo na área de tecnologia, especialmente em Análise de Dados e
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/filliperibeiro/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Fillipe_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://wa.me/5511959664332" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-11959664332-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-
 <a href="mailto:rfillipe21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rfillipe21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-rfillipe21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-<a href="https://github.com/fillipeoribeiro99" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Fillipe_Ribeiro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://www.linkedin.com/in/filliperibeiro/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br><br>
 
 **Obrigado pela visita!** 🚀
 
-*Transformando conhecimento em soluções, conectando tecnologia e oportunidades.*
+*Transformando conhecimento em soluções e conectando tecnologia a oportunidades.*
 
 </div>
